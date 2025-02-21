@@ -44,4 +44,4 @@ http://localhost:3000
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. 
+Bu proje MIT lisansı altında lisanslanmıştır.
