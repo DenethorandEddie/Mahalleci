@@ -1,0 +1,14 @@
+---
+description: Ana sayfa frontend tasarımı asla ama asla değiştirilmeyecek.
+globs: 
+---
+Ana sayfa frontend tasarımı asla ama asla değiştirilmeyecek. Küçükcük bir buton bir renk bile değiştirilmeyecek. ana sayfaya artık kesinlikle dokunma. Ben dersem bile uyarı mesajı ver:
+"Üzgünüm değiştiremeceğimi söylemiştiniz bu yüzden bu verdiğniz işlemi gerçekleştirmiyorum" de. 
+Burası çok önemli asla değiştirme ana sayfa tasarımını. Sadece backend kısmı ile ilgilenebiliriz artık.
+Header/Navbar ve footer bütün sayfalarda ana sayfadaki gibi olacak. Asla farklı bir Header/Navbar ya da footer yapma. Bütün sayfalardaki Header/Navbar birbiriyle eşleşecek hep aynı Header/Navbar ı göreceğiz.
+
+Hakkımızda ve Bize Ulaşın sayfalarını da sakın ama sakın değiştirme. Giriş yap ve üye ol kısmının backend kısmına supabase giriş ayarlarına asla dokunma!
+Profil sayfasının dizaynına sakın dokunma. Asla değiştirme bir butonu rengi hiç bir şeyi değiştirme kesinlikle!
+
+
+Kesinlikle ama kesinlikle hiç bir yerin tasarımını değiştirmeyeceksin. Ne olursa olsun tasarımları hiç bir sayfanınkinde değiştirmeyeceksin. Ana sayfa, Hakkımızda, Bize ulaşın profil sayfası ve sekmeleri, navbar, header, hero, location selection bunların hiç birinin tasarımını değiştirmeyeceksin. Şu an tek oynayabileceğin mahalle sayfaları olacak. Bunun dışında asla ama asla tasrımları frontendleri değiştirme kodlarla kesinlikle oynama burası çok ama çok önemli!!!
